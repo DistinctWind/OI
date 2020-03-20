@@ -21,7 +21,7 @@ int main(){
         printf("%d\n%d\n%d", 3, 12, 2);
         break;
     case 4:
-        printf("%.3f", 500/3);
+        printf("%.3f", 500.0/3);
         break;
     case 5:
         printf("%d", int((220+260)/(12+20)));
@@ -49,8 +49,11 @@ int main(){
         cout<<int('M'-'A'+1)<<endl<<char('A'+18-1);
         break;
     case 13:
-        cout<<(int)(pow(4/3*p*(4*4*4+10*10*10),1.0*1/3));
+        cout<<16;
+        break;
     case 14:
         cout<<50;
+        break;
     }
+    return 0;
 }
