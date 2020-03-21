@@ -12,6 +12,8 @@
 
 ![Title_pictrue2](https://raw.githubusercontent.com/DistinctWind/OI/master/assets/TitlePic2.jpg)
 
+---
+
 这个仓库里包含了我所有的学习OI的所有代码以及部分题解。
 
 old文件夹下是CSP2019前写的所有题目的代码，没有什么特别的格式。
